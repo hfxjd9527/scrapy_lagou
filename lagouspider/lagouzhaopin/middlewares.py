@@ -7,7 +7,7 @@
 
 from scrapy import signals
 from fake_useragent import UserAgent
-from tools.crawl_ip import Get_Ip
+
 
 class LagouzhaopinSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
